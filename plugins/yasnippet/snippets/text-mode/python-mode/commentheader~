@@ -1,0 +1,5 @@
+#name : Comment Header: ...
+# --
+###
+### Author: $0
+### `(replace-regexp-in-string "@" "@" user-mail-address)`

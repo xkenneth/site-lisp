@@ -1,0 +1,8 @@
+#name : Comment Header: ...
+# --
+############
+### Author: `(user-full-name)`
+### Email Address: `(replace-regexp-in-string "@" "@" user-mail-address)`
+### Date: `(current-time-string)`
+### Function: ${1:Function}
+############

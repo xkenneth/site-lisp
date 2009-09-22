@@ -1,0 +1,7 @@
+#name : Try: Except:: ...
+# --
+try:
+    ${1:Try Statement}
+except ${2:Exception}, e:
+    print e
+    ${3:Except Statement}
