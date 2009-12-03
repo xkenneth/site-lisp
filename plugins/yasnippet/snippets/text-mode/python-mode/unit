@@ -1,0 +1,13 @@
+#name : unit test: ...
+# --
+import unittest
+
+class TestCase(unittest.TestCase):
+      def setUp(self):
+          pass
+      def tearDown(self):
+          pass
+      def testoA(self):
+          pass
+
+unittest.main()
